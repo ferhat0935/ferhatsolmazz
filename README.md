@@ -1,1 +1,2 @@
 # ferhatsolmazz
+github eğitimi
